@@ -1,0 +1,4 @@
+# Ignorar los modulos
+node_modules/
+# Ignorar tablas
+tablas/*.txt
